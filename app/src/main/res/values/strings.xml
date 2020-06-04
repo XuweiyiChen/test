@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Info448Project</string>
+    <string name="posts_replies">Posts &amp; replies</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="add_your_location">Add your location</string>
+    <string name="nickname">Nickname</string>
+    <string name="username">\@ Username</string>
+    <string name="bio_add_a_bio">Bio: Add a bio to you profile</string>
+    <string name="city_state">City, State</string>
+    <string name="post_and_reply_contents">Post and reply contents ...</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log in</string>
+    <string name="password">Password</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="c19_support">C19-SUPPORT</string>
+    <string name="connect_with_your_local_community">CONNECT WITH YOUR LOCAL COMMUNITY</string>
+    <string name="real_time_stats_up_to_date_health_info_connect_with_community">REAL TIME STATS, UP-TO-DATE HEALTH INFO, CONNECT WITH COMMUNITY</string>
+    <string name="get_started">Get Started</string>
+    <string name="log_out">Log out</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="select_a_location">Select a location</string>
+    <string name="here_is_covid_19_data_in_the_state_of_washington">Here is Covid-19 Data in the state of Washington</string>
+    <string name="the_data_below_is_provided_by_cdc">The Data below is provided by CDC:</string>
+    <string name="_0">0</string>
+    <string name="negative">Negative</string>
+    <string name="positive">Positive</string>
+    <string name="in_hospital">In Hospital</string>
+    <string name="death">Death</string>
+    <string name="compare_with_yesterday">Compare with Yesterday:</string>
+    <string name="new_positive">New Positive</string>
+    <string name="new_death">New Death</string>
+    <string name="state">state</string>
+    <string name="new_here_create_account">New here? Create account</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in</string>
+</resources>
